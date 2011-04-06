@@ -10,6 +10,8 @@ using std::cin;
 using std::endl;
 using std::cout;
 
+/*** LAVA International Testing ****/
+
 //===========================================================================
 //		the list of all the possible states for the current FSM
 //===========================================================================
